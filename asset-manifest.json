@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-depo/static/css/main.a617e044.chunk.css",
-    "main.js": "/react-depo/static/js/main.443faf63.chunk.js",
-    "main.js.map": "/react-depo/static/js/main.443faf63.chunk.js.map",
+    "main.js": "/react-depo/static/js/main.16c2ccf7.chunk.js",
+    "main.js.map": "/react-depo/static/js/main.16c2ccf7.chunk.js.map",
     "runtime-main.js": "/react-depo/static/js/runtime-main.707781d8.js",
     "runtime-main.js.map": "/react-depo/static/js/runtime-main.707781d8.js.map",
     "static/js/2.b89e835e.chunk.js": "/react-depo/static/js/2.b89e835e.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.707781d8.js",
     "static/js/2.b89e835e.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.443faf63.chunk.js"
+    "static/js/main.16c2ccf7.chunk.js"
   ]
 }
